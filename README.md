@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **React JS, C, etc..**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/agungpraditya/](https://www.linkedin.com/in/agungpraditya/)
-
 - 💬 Ask me about **New Technology**
 
 - 📫 How to reach me **agungpradityaaa@gmail.com**
