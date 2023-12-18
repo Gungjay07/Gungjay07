@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **agungpradityaaa@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/agungpraditya/](https://www.linkedin.com/in/agungpraditya/)
-
 - ⚡ Fun fact **I Think Iam Funny😁**
 
 <h3 align="left">Connect with me:</h3>
