@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Agung Praditya</h1>
 <h3 align="center">A passionate Frontend Developer from Indonesia, I am currently studying at Binus University Majoring in Computer Science.</h3>
-<img align="right" width="400" alt="Coding" src="[https://camo.githubusercontent.com/ec4a68367aa02e4a7437dc2cd3b619a7ec50be09f6152f182f4123b6a4f012d5/68747470733a2f2f6d656469612e74656e6f722e636f6d2f4e4f594633663832625f6741414141432f70726f6772616d6d65722e676966](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FUmakanthKaspa&psig=AOvVaw0u1NU09XEOxhNgnDatX0Ft&ust=1704019812212000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjR1dH-toMDFQAAAAAdAAAAABAr)">
+<img align="right" width="400" alt="Coding" src="https://camo.githubusercontent.com/9e6fd269bd679257e2f85d8520ca75fa3bcf3f29fbcee3db65b763ef144cb653/68747470733a2f2f646576746563686e6f7379732e636f6d2f696e7369676874732f77702d636f6e74656e742f75706c6f6164732f323032322f30392f5048502d446576656c6f706572732e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gungjay07&label=Profile%20views&color=0e75b6&style=flat" alt="gungjay07" /> </p>
 
