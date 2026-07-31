@@ -37,14 +37,6 @@
 
 ### 📊 GitHub Activity
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Gungjay07&theme=tokyonight&hide_border=true&background=161B22)
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gungjay07&theme=tokyonight" width="100%" />
-
-</div>
-
 ---
 
 ### 📫 Let's Connect
