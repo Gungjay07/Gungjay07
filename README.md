@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Coding" width="100" />
-
-# Agung Praditya
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Agung%20Praditya&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%C2%B7%20IT%20Student&descAlignY=58&descSize=20" width="100%" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-agungpraditya-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agungpraditya/)
 [![Instagram](https://img.shields.io/badge/Instagram-agungg.pradityaa-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/agungg.pradityaa)
@@ -39,9 +37,13 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Gungjay07&theme=tokyonight&hide_border=true&background=161B22)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gungjay07&theme=dracula" width="100%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gungjay07&theme=tokyonight" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gungjay07/Gungjay07/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gungjay07/Gungjay07/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Gungjay07/Gungjay07/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 
 </div>
 
