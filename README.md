@@ -1,67 +1,59 @@
 <div align="center">
 
-# Hi, I'm Agung Praditya 👋
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Coding" width="100" />
 
-**Web Developer · IT Student**
+# Agung Praditya
 
-Building clean, functional web apps with modern JavaScript tooling.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-agungpraditya-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agungpraditya/)
+[![Instagram](https://img.shields.io/badge/Instagram-agungg.pradityaa-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/agungg.pradityaa)
+[![GitHub](https://img.shields.io/badge/GitHub-Gungjay07-181717?style=flat&logo=github)](https://github.com/Gungjay07)
 
 </div>
 
-<br>
+---
 
-### About Me
-
-- 💻 Currently focused on full-stack web development with **Next.js**, **React**, and **Prisma**
-- 🌱 Exploring database design (**Prisma ORM**, **SQLite/libSQL**, **Supabase**) and clean architecture
-- 🛠️ Recent work: restaurant ordering systems, internal tooling, and link-shortener services
-- 📫 Always open to collaborate on interesting projects
-
-<br>
-
-### Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-</p>
-
-<br>
-
-### GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Gungjay07&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Gungjay07's GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gungjay07&hide_border=true" alt="Gungjay07's GitHub streak" height="165" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gungjay07&layout=compact&hide_border=true" alt="Top languages" height="165" />
-</p>
-
-<br>
-
-### Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/agungpraditya/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:agungpradityaaa@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-<br>
+### 🛠️ Tech Stack
 
 <div align="center">
-  <sub>Thanks for stopping by ⭐</sub>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+<br>
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+<br>
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+<br>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+</div>
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Gungjay07&theme=tokyonight&hide_border=true&background=161B22)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gungjay07&theme=tokyonight" width="100%" />
+
+</div>
+
+---
+
+### 📫 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-Let's_Talk-6366f1?style=flat&logo=gmail&logoColor=white)](mailto:agungpradityaaa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agungpraditya/)
+
+**Always open to interesting conversations and collaborations.**
+
 </div>
